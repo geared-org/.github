@@ -1,6 +1,12 @@
+```bash
 ## Hi there 👋
 
 we are geared
 
+geared is an open-source community dedicated to doing what ever the FUHK we want. Our goal is to create and share projects.
 
-we are a group people idfk -pyromania
+its a group people idfk -pyromania (owner)
+
+
+---
+
